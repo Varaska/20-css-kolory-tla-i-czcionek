@@ -1,0 +1,23 @@
+body {
+	background-color: #938c8c;
+}
+
+h1 {
+	color: #333333;
+}
+p:first-of-type  {
+    color: blue;
+}
+
+h2 {
+	color: #0099cc;
+}
+
+p:last-of-type {
+	color: #bc1ca9;
+}
+
+ol li {
+	padding: 10px;/* odstęp między zawartością elementu a jego granicami */
+	margin: 5px;
+}
