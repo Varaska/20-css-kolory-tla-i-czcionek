@@ -21,3 +21,29 @@ ol li {
 	padding: 10px;/* odstęp między zawartością elementu a jego granicami */
 	margin: 5px;
 }
+
+li:nth-child(1) {
+	background-color: #e6f9ff;
+	color: #ff3333;
+  }
+  
+  li:nth-child(2) {
+	background-color: #d2d2c9;
+	color: #0099cc;
+  }
+  
+  li:nth-child(3) {
+	background-color: #ffe6cc;
+	color: #663300;
+  }
+  
+  li:nth-child(4) {
+	background-color: #dcfbdc;
+	color: #006600;
+  }
+  
+  li:nth-child(5) {
+	background-color: #ecebe2;
+	color: #cc0066;
+  }
+  
